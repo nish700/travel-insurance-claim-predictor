@@ -1,1 +1,1 @@
-# Travel Insurance Claim Predictor is a pretrained machine learning algorithm that has been trained on travel insurance dataset and can be used to predict whether an insured person will claim the travel insurance based on historical data.
+# Travel Insurance Claim Predictor is a pretrained machine learning algorithm that has been trained on travel insurance dataset and can be used to predict whether an insured person will claim the travel insurance based on historical data or not
